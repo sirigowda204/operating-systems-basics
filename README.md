@@ -4,6 +4,8 @@
 
 As a TA for the course, I have explained the main concepts of operating systems in a relatable way using real-world examples!
 
+        **Session recording is available in releases**
+
 ## Contents
 
     1. What is an operating system?
@@ -21,4 +23,4 @@ As a TA for the course, I have explained the main concepts of operating systems 
 
 **The link to the presentation is:** [View Presentation](https://app.presentations.ai/view/JkguOY)
 
-**Session recording is available in releases**
+
