@@ -4,7 +4,7 @@
 
 As a TA for the course, I have explained the main concepts of operating systems in a relatable way using real-world examples!
 
-        **Session recording is available in releases**
+        Session recording is available in releases
 
 ## Contents
 
